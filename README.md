@@ -1,3 +1,3 @@
-Source for my personal site, [LifeofDerek.com](http://LifeofDerek.com).
+Source for my IT business site, [Custom-ITS.com](http://Custom-ITS.com).
 
-The site is built with [Pelican](https://github.com/getpelican/pelican/), [Bootstrap](http://getbootstrap.com/), and [Readable CSS](http://bootswatch.com/readable/).
+The site is built with [Pelican](https://github.com/getpelican/pelican/), [Bootstrap](http://getbootstrap.com/), and [Slate CSS](http://bootswatch.com/slate/).
