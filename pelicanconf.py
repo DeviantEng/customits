@@ -33,7 +33,9 @@ SOCIAL = (('Facebook', 'http://facebook.com/CustomITS'),
           ('twitter', 'http://twitter.com/CustomITS1'),
           )
           
-PLUGIN_PATH = './plugins'
+PLUGIN_PATHS = [
+		'./plugins',
+	]
 PLUGINS = ['feed_summary', 'gzip_cache', 'liquid_tags.video', 'optimize_images', 'related_posts', 'share_post', 'sitemap',]
 
 FEED_USE_SUMMARY = True
